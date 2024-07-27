@@ -126,7 +126,7 @@ This project provides a comprehensive statistical analysis of heart disease data
 
 1. **Clone the Repository**: `git clone <repository_url>`
 2. **Install Dependencies**: Ensure you have Python and necessary libraries installed (e.g., pandas, matplotlib, seaborn, scipy).
-3. **Run the Notebook**: Open `Statics.ipynb` in Jupyter Notebook and execute the cells to see the analysis.
+3. **Run the Notebook**: Open `Statics-Inference.ipynb` in Jupyter Notebook and execute the cells to see the analysis.
 4. **Read the Report**: The detailed analysis and findings are documented in `Report.pdf`.
 
 ---
